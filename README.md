@@ -3,6 +3,6 @@ A simple API which provides articles for people to read, as well as writing, edi
 
 All the source code related to back-end is in the 'news' folder.
 The sample database file is 'badnews.sql' in PostgreSQL.
-The GoogleDoc file lists all the provided routes.
+The doc file lists all the provided routes (in Vietnamese).
 
 Access the API: http://iws-news.herokuapp.com/test
